@@ -58,7 +58,7 @@ main {
     font-weight:700;
     font-size:26px;
     color:#ef5350;
-    border-bottom:1px solid #607d8b;
+    border-bottom:1px solid #4db6ac;
     opacity:0.7
 }
 
@@ -127,7 +127,7 @@ button[type=submit] {
     font-size:18px;
     border:none;;
     border-radius:90px;
-    color:#ef5350;
+    color:#4db6ac;
     opacity:0.7;
     cursor: pointer;
 }
