@@ -6,7 +6,6 @@ html, body {
     margin:0;
     padding:0;
     background:#f3f3f3;
-    font-family: 'Roboto';
 }
 
 header {
@@ -55,7 +54,7 @@ main {
     margin:0 auto;
     padding:0 0 10px;
     text-align:left;
-    font-family: 'Whitney';
+    font-family: 'Whitney', 'Roboto';
     font-weight:700;
     font-size:26px;
     color:#ef5350;
